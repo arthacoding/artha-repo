@@ -1,2 +1,2 @@
-# artha-repo
+# artha-resolusi
 repository coding python
