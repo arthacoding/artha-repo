@@ -1,0 +1,11 @@
+nama = input ("masukkan nama mahasiswa: ")
+nim = input ("masukkan nim masahasiswa: ")
+prodi = input ("masukkan program studi mahasiswa: ")
+
+print("===data mahasiswa===")
+print("Nama=", nama) 
+print("NIM=", nim)
+print("program studi =", prodi)
+print(" ")
+print("selamat datang %s,"%nama)
+print("anda merupakan mahasiswa program studi %s dengan NIM %s"%(prodi,nim))
